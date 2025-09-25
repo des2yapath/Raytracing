@@ -2,7 +2,6 @@
 
 A modular, CPU-based raytracer written in [Rust](https://www.rust-lang.org/). This project simulates how rays of light interact with 3D objects and materials to render a simple scene from scratch.
 
-> 🔧 Built from first principles, without using high-level graphics engines.
 
 ---
 
